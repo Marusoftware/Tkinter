@@ -1,2 +1,2 @@
-# Tkinter
+# TkinterAddons
 python3/tkinter
