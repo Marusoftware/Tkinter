@@ -1,2 +1,6 @@
 # TkinterAddons
-python3/tkinter
+
+Python3/Tkinter addons.
+
+This contain these addons.:
+    tkdnd(TkinterDnD)
