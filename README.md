@@ -2,5 +2,4 @@
 
 Python3/Tkinter addons.
 
-This contain these addons.: 
-    tkdnd(TkinterDnD)
+This contain these addons: 
